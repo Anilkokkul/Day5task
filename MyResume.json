@@ -1,0 +1,32 @@
+let MyResume ={
+    "name" : "Anil Kokkul",
+    "email": "anilkokkul1997@gmail.com",
+    "phone": "8087464127",
+    "address": "305.4 a block godutai vidi gharkul kumbhari solapur",
+    "pincode": "413006",
+},
+"work": [
+    {
+      "company": "Mahindra Integrated business solutions",
+      "position": "Subject matter Expert",
+      "startDate": "208-07-16",
+      "endDate": "2023-05-06",
+      "summary": "i am the subject matter expert handling various task and gaining lots of experience",
+    },
+  ],
+"education": [
+    {
+      "institution": "SES polytechnic",
+      "department": "Mechanical",
+      "studyType": "fulltime",
+      "batch start year": 2015,
+      "batch end year": 2017,
+      "Result": "61%",
+    }
+]
+
+"languages": [
+      {
+        "language": "Marathi,Hindi,Telugu,English",
+      }
+    ],
